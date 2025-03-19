@@ -24,8 +24,10 @@
   color: gray;
 }
 .produto__em-destaque {
-  border: 2px solid gold;
   padding: 8px;
+}
+.produto__em-destaque--modifier {
+  border: 2px solid gold;
   background-color: #ffff42;
 }
 
